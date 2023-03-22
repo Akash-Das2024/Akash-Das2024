@@ -20,3 +20,15 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="480" height="480" src="MEDIA/giphy.gif">
 </p>
+
+<p align="center">
+  <img width="480" height="480" src="MEDIA/peter.gif">
+</p>
+
+<p align="center">
+  <img width="480" height="480" src="MEDIA/kick.gif">
+</p>
+
+<p align="center">
+  <img width="480" height="480" src="MEDIA/fire.gif">
+</p>
