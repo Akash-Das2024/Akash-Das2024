@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello World, I'm Akash Das raising_hand_manearth_americas
+<h1 align="center">Hello World, I'm Justin Stitt 🙋‍♂️🌎 </h1>
