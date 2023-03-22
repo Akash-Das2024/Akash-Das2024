@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello World, I'm Akash Das 🙋‍♂️🌎 </h1>
 
-<!--
+
 <p align="center">
   <img width="480" height="400" src="MEDIA/giphy.gif">
 </p>
--->
+
 
 <!-- 
 <p align="center">
@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 </p>
 -->
 
+<!--
 <p align="center">
   <img width="480" height="400" src="MEDIA/kick.gif">
 </p>
+-->
 
 <!--
 <p align="center">
