@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="480" height="480" src="https://giphy.com/embed/hpF9R9M1PHN5e5liSx">
+  <img width="800" height="800" src="MEDIA/giphy.gif">
 </p>
